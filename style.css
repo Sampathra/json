@@ -1,0 +1,13 @@
+table {
+  width: 80%;
+  margin: 20px auto;
+  border: 2px solid #ccc;
+  border-collapse: collapse;
+  text-align: center;
+  text-transform: capitalize;
+}
+table tr th,
+table tr td {
+  padding: 10px;
+  border: 2px solid #ccc;
+}
